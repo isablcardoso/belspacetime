@@ -1,6 +1,5 @@
 <p align="center">
-<img src=".github/preview.png" alt= "Demonstração do projeto" width="100% " />
-</p>
+<img src=".github/belspace.png" alt= "Demonstração do projeto" width="100% " />
 
 ## 🖥️ Projeto
 
@@ -16,5 +15,5 @@ Esse projeto foi desenvolvido durante o NLWS da Rocketseat com as seguintes tecn
 
 ## 🏷️ Layout
 
-Você pode visualizar o layout do projeto através [desse link] (https://www.figma.com/file/n0A1jmZ4clQVx70L2j3R06/C%C3%A1psula-do-tempo-%E2%80%A2-Isabel?type=design&node-id=306%3A84&t=jwCyJI3ykZRWDOm0-1). 
+Você pode visualizar o layout do projeto através [desse link] (https://www.figma.com/file/n0A1jmZ4clQVx70L2j3R06/C%C3%A1psula-do-tempo-%E2%80%A2-Isabel?type=design&node-id=306%3A84&t=jwCyJI3ykZRWDOm0-1).
 É necessário ter uma conta no figma. [Figma] (https://www.figma.com)
